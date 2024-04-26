@@ -1,7 +1,7 @@
 # Search Wallet Crypto Random
 
 ## Tutorial
-- git clone
+- git clone https://github.com/dipdown/SearchWallet
 - npm install
 - node index.js
 - enjoyyy
